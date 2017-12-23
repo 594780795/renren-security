@@ -1,10 +1,2 @@
 ind
-ffff
-ffff
-ffff
-fff
-
-ffff
-ffff
-
-ffff
+ddddd
